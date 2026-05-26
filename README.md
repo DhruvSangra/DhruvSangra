@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DhruvSangra
-- 👀 I’m interested in Coding and stuff
-- 🌱 I’m currently learning C++ and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in AI and automation
+- 🌱 I’m currently learning Agentic Frameworks
+- 💞️ I’m looking to collaborate on a project
+- 📫 How to reach me on linkedin
 
 <!---
 DhruvSangra/DhruvSangra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
